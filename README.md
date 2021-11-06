@@ -8,6 +8,7 @@ Project Outline:
 2) Analyze the content to get a list of the most commonly used words and phrases, excluding stop words.
 4) Import or create a function that can run a strict Japanese-language spell-check and grammar-check on the text.
 5) Create visualizations of my most common used words/phrases and most common grammar mistakes with Tableau.
+6) Look for any correlations between the number of "useful" votes an answer gets with the word count, specific words/phrases, or the presence/absence of spelling mistakes.
 
 Extra Features:
 1) Scrape the Japanese text from every non-Japanese "anchor" on the DMM uKnow website, associating each body of text with the nationality of the individual.
